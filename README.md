@@ -19,7 +19,7 @@ That question led me to think about delivery through three dimensions: **Scope, 
 - **Quality: How well we deliver.** Correctness, reliability, security, maintainability, performance, and the confidence with which software can evolve. Quality is more than the absence of defects.
 - **Speed: How quickly we deliver.** The time it takes to turn agreed work into usable software. Speed should not be confused with simply keeping people busy or counting deployments.
 
-![A triangle showing Scope, Quality, and Speed, with delivery capacity and capability at its center](diagrams/scope-quality-speed.svg)
+![Scope, Quality, and Speed](scope-quality-speed.svg)
 
 ## My initial hypothesis
 
