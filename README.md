@@ -108,4 +108,16 @@ It is understanding what limits us today, making deliberate trade-offs, and impr
 
 ---
 
-*An independent engineering reflection by Shailendra Negi. The article and original diagram are shared under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). The license applies to the author's expression, not ownership of the underlying software delivery concepts.*
+## License and attribution
+
+© 2026 Shailendra Negi.
+
+The original article and diagram in this repository are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are welcome to share, use, adapt, and build upon them, including commercially, under the terms of that license. When redistributing the material or an adaptation, give appropriate credit, link to the license, and indicate if changes were made. Attribution must not suggest endorsement by the original author.
+
+**Suggested attribution:**
+
+> Based on [*More, Better, Faster: What Changed?*](https://github.com/shailendranegi/scope-quality-speed) by Shailendra Negi, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Changes made: [brief description, if applicable].
+
+The license covers the author's original expression and diagram, not ownership of the underlying software delivery concepts. See the [LICENSE](LICENSE) file for details.
